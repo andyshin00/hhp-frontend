@@ -127,14 +127,42 @@ const teamData = {
             title: 'Web Developer',
             image: 'https://firebasestorage.googleapis.com/v0/b/miolms.firebasestorage.app/o/JORELL%20ANDREI%20P.%20FINEZ%2F0b7c0102-8d12-4cd6-b585-c8e3bd9631d1.remini-enhanced.jpg?alt=media&token=c3b9601d-b532-487b-94f9-4b095fcfbdf3'
         },
+        {
+            name: 'Ana Sanabria',
+            details: 'Ana Sanabria is a Technical Project Manager and recent graduate with a Master\'s in Computer Science, with experience leading cross-functional projects in technology and nonprofit environments. She focuses on organizing complex initiatives, managing stakeholders, and delivering projects on time using Agile methodologies. She combines technical knowledge with strong execution skills to drive results and is focused on growing her impact in technical project management.',
+            location: '',
+            title: 'Technical Project Manager',
+            image: '/team/ana-sanabria.jpg'
+        },
+        {
+            name: 'Larry Smith',
+            details: 'As Chief Product and Technology Officer, Larry is committed to delivering trusted, impactful, innovative health and wellness solutions for Human Health Project. Larry and his wife Pam live in the San Francisco area, where they enjoy sourdough baking, hiking, travel and exploring the natural beauty of California and the world beyond.',
+            location: '',
+            title: 'Chief Technology Officer',
+            image: '/team/larry-smith.jpg'
+        },
     ],
     product: [
         {
-            name: 'Hansel Noriega',
-            details: 'Designer with over 10+ years of experience based in Greater Los Angeles, California, Hansel specializes in branding, advertising, and marketing. His proficiency in digital design has allowed him to acquire a comprehensive understanding of common user experience issues, enhance web interfaces, improve online performance metrics, and create top-quality UX design solutions across various digital platforms. ',
+            name: 'Adaeze Winner Nwachukwu',
+            details: 'With a background in international relations and over seven years in IT service management and data operations, Adaeze has worked across healthcare, financial services, and digital health, moving from service desk analysis and data quality assurance into Business Analysis and client-facing advisory work. The experience gathered across these different fields allows her to bridge the gap between complex technical requirements and real human needs, whether that is translating clinical workflows into actionable user stories for a digital health platform, or helping individuals and families put the right financial protection in place as a Protection Adviser. Driven by a genuine interest in using data and technology to improve people\'s lives, Adaeze brings both analytical rigour and a people-first mindset to everything she does.',
             location: '',
-            title: 'Lead UX Designer',
-            image: 'https://humanhealthproject.org/wp-content/uploads/2023/09/Hansel-Noriega-320x320.webp'
+            title: 'Business Analyst',
+            image: '/team/adaeze-nwachukwu.jpg'
+        },
+        {
+            name: 'Johny Choi',
+            details: 'I\'m Johny Choi, UX designer.',
+            location: '',
+            title: 'UX Lead',
+            image: '/team/johny-choi.jpg'
+        },
+        {
+            name: 'Pranjali Desai',
+            details: 'I am Pranjali Desai working as a Business Analyst at HHP.',
+            location: '',
+            title: 'Business Analyst',
+            image: '/team/pranjali-desai.jpg'
         },
     ],
     privacySecurity: [
@@ -167,6 +195,13 @@ const teamData = {
             location: '',
             title: 'Healthcare Access Manager',
             image: 'https://humanhealthproject.org/wp-content/uploads/2025/10/Marcelo-De-Sa-1-300x400.png'
+        },
+        {
+            name: 'Jane Yun',
+            details: 'Jane Yun is a Volunteer Marketing Analytics Manager at the Human Health Project, based in Pittsburgh, Pennsylvania, where she leverages data to support strategic decision-making and strengthen outreach efforts. She holds a Bachelor of Design in Graphic Design and a Master of Business Analytics from Penn State\'s Smeal College of Business, and focuses on analyzing marketing performance to deliver insights that enhance engagement and impact.',
+            location: '',
+            title: 'Analytics Lead',
+            image: '/team/jane-yun.jpg'
         },
     ],
     legal: [
@@ -296,6 +331,42 @@ const teamData = {
             image: 'https://humanhealthproject.org/wp-content/uploads/2024/10/Saliem-Q.S.-Alzein-300x400.webp'
         },
     ],
+    revenueGeneration: [
+        {
+            name: 'Doris Wambui Muriithi',
+            details: 'Doris is a data and operations professional with expertise in revenue analysis and strategic data management. Anchored by a belief that clarity in systems drives meaningful growth, she moves at the intersection of data, structure and execution to enable revenue performance and operational alignment. She is passionate about global health and the broader question of how better systems can improve outcomes at scale. In her free time Doris enjoys discovering great coffee shops in Nairobi.',
+            location: '',
+            title: 'Director Revenue Generation',
+            image: '/team/doris-muriithi.jpg'
+        },
+    ],
+    businessDevelopment: [
+        {
+            name: 'Eric Gray',
+            details: 'Eric Gray is a community systems leader, health equity advocate, and nonprofit executive with over 18 years of experience working at the intersection of homelessness, justice involvement, housing stability, and community-based services. His work is grounded in both professional expertise and lived experience, shaping a practical, solutions-driven approach to advancing equity and long-term stability for underserved populations. He currently serves as the Chief Business Development Officer (CBDO) for the Human Health Project (HHP), a global nonprofit dedicated to improving health literacy and outcomes for vulnerable communities through education, advocacy, and innovative programming. In this role, Eric leads strategic growth initiatives, partnership development, and resource expansion efforts to scale HHP\'s impact across the United States, Northern Ireland, and the Republic of Ireland. He focuses on building cross-sector collaborations that expand access to healthcare navigation tools, patient advocacy resources, and culturally responsive health education programs designed to reduce medical errors and improve patient outcomes. Eric plays a key role in advancing partnerships that strengthen HHP\'s ecosystem of services, helping bridge gaps between healthcare systems, community organizations, and the populations they serve. His work supports the expansion of HHP\'s core program areas, including healthcare access, patient advocacy, shared patient information, and health literacy education, all aimed at empowering individuals to make informed health decisions and achieve better long-term outcomes. In addition to his role at HHP, Eric serves as a Case Manager with Project 180\'s Rapid Diversion Program, working in partnership with the Los Angeles County court system to support justice-involved individuals in securing housing and accessing critical services. He is also a Co-Chair of the Los Angeles Homeless Services Authority\'s (LAHSA) Lived Experience Advisory Board, where he helps inform policy and system-level strategies through the lens of lived experience. Eric is the Chief Operating Officer for Faith in God Charity Missions and the General Partner of Gray Family Partners, where he provides grant writing, financial coaching, and strategic support to nonprofits, small businesses, and community initiatives focused on housing stability and economic empowerment. A certified Financial Fitness Coach (FFC®), he is particularly passionate about integrating financial education into health and housing systems as a pathway to sustainable stability. His commitment to this work is deeply personal. After experiencing homelessness following his move to Los Angeles in the early 2000s, Eric has dedicated his career to ensuring that systems are more accessible, equitable, and responsive to those most in need. He brings a unique blend of lived experience, frontline service, and executive leadership to every role he serves. Outside of his professional work, Eric is a dedicated mentor and youth coach with the County Parks and Recreation Department, where he coaches flag football and basketball. He believes strongly in mentorship as a tool for empowerment and is committed to investing in the next generation while staying grounded in family and community.',
+            location: '',
+            title: 'Chief Business Development Officer',
+            image: '/team/eric-gray.jpg'
+        },
+    ],
+    sharedPatientInformation: [
+        {
+            name: 'Jayeesha Deb',
+            details: 'Jayeesha has a strong passion for improving healthcare accessibility around the world. She strives to pursue degrees in biochemistry and neuroscience and transform the medical industry for the better through research, patience, and fresh new ideas. HHP\'s mission and vision inspired her to contribute to its goals, and she\'s excited to see each volunteer\'s efforts come to fruition as we connect patients and their stories.',
+            location: '',
+            title: 'Researcher',
+            image: '/team/jayeesha-deb.jpg'
+        },
+    ],
+    healthcareAccess: [
+        {
+            name: 'Kamara Nnadi',
+            details: 'Kamarachukwu Nnadi is a certified medical assistant and student leader passionate about advancing health equity through community service, public health initiatives, and hands-on clinical experience.',
+            location: '',
+            title: 'Healthcare Access Manager',
+            image: '/team/kamara-nnadi.jpg'
+        },
+    ],
     footerCta: {
     text: "Our project is growing and we want you to be a part of it.\nMore People. More Information. Better Health.",
     buttonText: "Join Us!"
@@ -348,6 +419,10 @@ export default function MeetTheTeam() {
                 <TeamSection title="Human Resources" members={teamData.humanResources} />
                 <TeamSection title="Development/Donor Relations" members={teamData.development} />
                 <TeamSection title="Programs" members={teamData.programs} />
+                <TeamSection title="Revenue Generation" members={teamData.revenueGeneration} />
+                <TeamSection title="Business Development" members={teamData.businessDevelopment} />
+                <TeamSection title="Shared Patient Information Program" members={teamData.sharedPatientInformation} />
+                <TeamSection title="Healthcare Access" members={teamData.healthcareAccess} />
 
                 {/* Footer Links */}
                 <div className="team-links">
